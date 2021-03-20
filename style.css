@@ -1,0 +1,43 @@
+body{
+    background-color: ghostwhite;
+}
+
+nav img{
+    width: 35px;
+}
+
+#email{
+    min-width: 350px;
+}
+
+#submit{
+    min-width: 200px;
+}
+
+#Home h3{
+    font-size: 30px
+}
+
+#Home p{
+    font-size: 20px
+}
+
+#Home img{
+    max-width: 100px;
+    min-width: 20px;
+}
+
+footer a{
+    color: black;
+    font-style: normal;
+}
+
+header{
+    height: 61.5px;
+}
+
+#Features{
+    width: 560px;
+    height: 315px;
+}
+
